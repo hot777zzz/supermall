@@ -1,4 +1,5 @@
-# supermall
+# supermall：My first vue.js project followed by coderwhy
+@Hot7
 
 ## Project setup
 ```
